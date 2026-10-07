@@ -1,0 +1,186 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="第 1 页" id="aLClmXJceZRTRnJm34to">
+    <mxGraphModel dx="1168" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="light-dark(#ffffff, #121212)" math="1" shadow="0" adaptiveColors="simple">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bea5-4iDMZUEEsSAmSrE-197" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="770" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="bea5-4iDMZUEEsSAmSrE-198" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="160" x="499" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="pnD_SxfrUmBLamvsYzKY-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ExxonMobil" vertex="1">
+          <mxGeometry height="60" width="140" x="522" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="pnD_SxfrUmBLamvsYzKY-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Oil &amp; Gas" vertex="1">
+          <mxGeometry height="60" width="120" x="838" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="pnD_SxfrUmBLamvsYzKY-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Energy" vertex="1">
+          <mxGeometry height="60" width="120" x="805" y="306" as="geometry" />
+        </mxCell>
+        <mxCell id="pnD_SxfrUmBLamvsYzKY-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chemicals" vertex="1">
+          <mxGeometry height="60" width="120" x="1062" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="pnD_SxfrUmBLamvsYzKY-41" edge="1" parent="1" source="pnD_SxfrUmBLamvsYzKY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pnD_SxfrUmBLamvsYzKY-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pnD_SxfrUmBLamvsYzKY-42" edge="1" parent="1" source="pnD_SxfrUmBLamvsYzKY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pnD_SxfrUmBLamvsYzKY-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pnD_SxfrUmBLamvsYzKY-43" edge="1" parent="1" source="pnD_SxfrUmBLamvsYzKY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pnD_SxfrUmBLamvsYzKY-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zydayc9zXogta9tw69Dm" name="第 2 页">
+    <mxGraphModel dx="1600" dy="977" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="light-dark(#ffffff, #121212)" math="1" shadow="0" adaptiveColors="simple">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;gradientColor=none;" value="我他妈的" vertex="1">
+          <mxGeometry height="60" width="120" x="239" y="192" as="geometry" />
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="530" y="261" as="geometry" />
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-3" parent="1" style="group;connectable=0;transparentBounds=1;groupPadding=20;containerType=tree;childLayout=%5B%7B%22layout%22%3A%22elkLayered%22%2C%22config%22%3A%7B%22elk.direction%22%3A%22RIGHT%22%2C%22elk.layered.spacing.nodeNodeBetweenLayers%22%3A%2250%22%2C%22elk.layered.considerModelOrder.strategy%22%3A%22NODES_AND_EDGES%22%2C%22elk.padding%22%3A%22%5Btop%3D20%2Cleft%3D40%2Cbottom%3D20%2Cright%3D20%5D%22%2C%22edgeStyle%22%3A%22orthogonalEdgeStyle%22%2C%22corners%22%3A%22rounded%22%2C%22extractIsolated%22%3Afalse%2C%22resizeLayoutRoot%22%3Atrue%2C%22resizeNodes%22%3Afalse%7D%7D%5D;" value="" vertex="1">
+          <mxGeometry as="geometry" />
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-4" parent="kkuTZYCbr9MnTPad1QXG-3" style="whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="40" width="100" x="374" y="92.69" as="geometry" />
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-5" parent="kkuTZYCbr9MnTPad1QXG-3" style="whiteSpace=wrap;html=1;" value="Task" vertex="1">
+          <mxGeometry height="40" width="100" x="524" y="86.02" as="geometry" />
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-6" parent="kkuTZYCbr9MnTPad1QXG-3" style="whiteSpace=wrap;html=1;" value="Task" vertex="1">
+          <mxGeometry height="40" width="100" x="524" y="156.02" as="geometry" />
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-24" edge="1" parent="kkuTZYCbr9MnTPad1QXG-3" source="kkuTZYCbr9MnTPad1QXG-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="948.730272376019" y="77.00268901437974" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-7" parent="kkuTZYCbr9MnTPad1QXG-3" style="whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="40" width="100" x="674" y="92.69" as="geometry" />
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-8" edge="1" parent="kkuTZYCbr9MnTPad1QXG-3" source="kkuTZYCbr9MnTPad1QXG-4" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.3332;entryX=0;entryY=0.5;" target="kkuTZYCbr9MnTPad1QXG-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="499" y="106.02" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-9" edge="1" parent="kkuTZYCbr9MnTPad1QXG-3" source="kkuTZYCbr9MnTPad1QXG-4" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.6665;entryX=0;entryY=0.5;" target="kkuTZYCbr9MnTPad1QXG-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="119.35" />
+              <mxPoint x="490" y="176.02" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-10" edge="1" parent="kkuTZYCbr9MnTPad1QXG-3" source="kkuTZYCbr9MnTPad1QXG-5" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.3332;" target="kkuTZYCbr9MnTPad1QXG-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="649" y="106.02" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-11" edge="1" parent="kkuTZYCbr9MnTPad1QXG-3" source="kkuTZYCbr9MnTPad1QXG-6" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.6665;" target="kkuTZYCbr9MnTPad1QXG-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="176.02" />
+              <mxPoint x="640" y="119.35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-33" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#333333;" value="&lt;b&gt;欧拉公式 (Euler&#39;s Formula)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="1047" y="527" as="geometry" />
+        </mxCell>
+        <UserObject label="$$e^{i\pi} + 1 = 0$$" link="https://jksheng.top/" linkTarget="_blank" id="kkuTZYCbr9MnTPad1QXG-34">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#dee2e6;fontSize=28;fontColor=#212529;" vertex="1">
+            <mxGeometry height="120" width="360" x="1102" y="576" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="kkuTZYCbr9MnTPad1QXG-35" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#495057;html=1;" value="&lt;p&gt;欧拉公式被誉为“上帝公式”：&lt;br&gt;它将数学中最重要的几个常数（$e$, $\pi$, $i$, $1$, $0$）及基本运算符号（加法、乘法、乘方）完美地结合在同一个式子中。&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="400" x="1027" y="767" as="geometry" />
+        </mxCell>
+        <UserObject label="" mermaidData="{&#xa;  &quot;data&quot;: &quot;flowchart TD\n  subgraph Pythagorean [\&quot;同角三角函数的基本关系\&quot;]\n    direction LR\n    A[\&quot;sin²α + cos²α = 1\&quot;]\n    B[\&quot;tanα = sinα / cosα\&quot;]\n    C[\&quot;1 + tan²α = sec²α\&quot;]\n  end\n\n  subgraph DoubleAngle [\&quot;二倍角公式\&quot;]\n    direction LR\n    D[\&quot;sin(2α) = 2sinαcosα\&quot;]\n    E[\&quot;cos(2α) = cos²α - sin²α\&quot;]\n    F[\&quot;tan(2α) = 2tanα / (1 - tan²α)\&quot;]\n  end\n\n  subgraph SumDiff [\&quot;和差化积 / 积化和差\&quot;]\n    direction LR\n    G[\&quot;sin(α ± β) = sinαcosβ ± cosαsinβ\&quot;]\n    H[\&quot;cos(α ± β) = cosαcosβ ∓ sinαsinβ\&quot;]\n  end\n\n  Pythagorean --&gt; DoubleAngle\n  DoubleAngle --&gt; SumDiff\n\n  style Pythagorean fill:#e1f5fe,stroke:#01579b,stroke-width:2px\n  style DoubleAngle fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px\n  style SumDiff fill:#fff3e0,stroke:#e65100,stroke-width:2px&quot;,&#xa;  &quot;config&quot;: null,&#xa;  &quot;version&quot;: &quot;12&quot;&#xa;}" id="kkuTZYCbr9MnTPad1QXG-41">
+          <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
+            <mxGeometry as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="和差化积 / 积化和差" mermaidId="n:SumDiff" mermaidBaseStyle="html=1;whiteSpace=nowrap;strokeWidth=2;verticalAlign=top;fillColor=#fff3e0;strokeColor=#e65100;fontColor=#000000;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="和差化积 / 积化和差" id="kkuTZYCbr9MnTPad1QXG-42">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-41" style="html=1;whiteSpace=nowrap;strokeWidth=2;verticalAlign=top;fillColor=#fff3e0;strokeColor=#e65100;fontColor=#000000;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="269" width="200" x="811" y="945" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="sin(α ± β) = sinαcosβ ± cosαsinβ" mermaidId="n:G" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="sin(α ± β) = sinαcosβ ± cosαsinβ" id="kkuTZYCbr9MnTPad1QXG-43">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-42" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="87" width="152" x="24" y="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="cos(α ± β) = cosαcosβ ∓ sinαsinβ" mermaidId="n:H" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="cos(α ± β) = cosαcosβ ∓ sinαsinβ" id="kkuTZYCbr9MnTPad1QXG-44">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-42" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="87" width="152" x="24" y="159" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="二倍角公式" mermaidId="n:DoubleAngle" mermaidBaseStyle="html=1;whiteSpace=nowrap;strokeWidth=2;verticalAlign=top;fillColor=#e8f5e9;strokeColor=#2e7d32;fontColor=#000000;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="二倍角公式" id="kkuTZYCbr9MnTPad1QXG-45">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-41" style="html=1;whiteSpace=nowrap;strokeWidth=2;verticalAlign=top;fillColor=#e8f5e9;strokeColor=#2e7d32;fontColor=#000000;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="320" width="200" x="811" y="585" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="sin(2α) = 2sinαcosα" mermaidId="n:D" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="sin(2α) = 2sinαcosα" id="kkuTZYCbr9MnTPad1QXG-46">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-45" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="67" width="152" x="24" y="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="cos(2α) = cos²α - sin²α" mermaidId="n:E" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="cos(2α) = cos²α - sin²α" id="kkuTZYCbr9MnTPad1QXG-47">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-45" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="67" width="152" x="24" y="139" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="tan(2α) = 2tanα / (1 - tan²α)" mermaidId="n:F" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="tan(2α) = 2tanα / (1 - tan²α)" id="kkuTZYCbr9MnTPad1QXG-48">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-45" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="67" width="152" x="24" y="229" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="同角三角函数的基本关系" mermaidId="n:Pythagorean" mermaidBaseStyle="html=1;whiteSpace=nowrap;strokeWidth=2;verticalAlign=top;fillColor=#e1f5fe;strokeColor=#01579b;fontColor=#000000;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="同角三角函数的基本关系" id="kkuTZYCbr9MnTPad1QXG-49">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-41" style="html=1;whiteSpace=nowrap;strokeWidth=2;verticalAlign=top;fillColor=#e1f5fe;strokeColor=#01579b;fontColor=#000000;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="277" width="200" x="811" y="268" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="sin²α + cos²α = 1" mermaidId="n:A" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="sin²α + cos²α = 1" id="kkuTZYCbr9MnTPad1QXG-50">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-49" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="45" width="152" x="24" y="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="tanα = sinα / cosα" mermaidId="n:B" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="tanα = sinα / cosα" id="kkuTZYCbr9MnTPad1QXG-51">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-49" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="67" width="152" x="24" y="187" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="1 + tan²α = sec²α" mermaidId="n:C" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="1 + tan²α = sec²α" id="kkuTZYCbr9MnTPad1QXG-52">
+          <mxCell parent="kkuTZYCbr9MnTPad1QXG-49" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
+            <mxGeometry height="45" width="152" x="24" y="117" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:Pythagorean-&gt;DoubleAngle#0" mermaidBaseStyle="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;startArrow=none;endArrow=block;endSize=8;jumpStyle=arc;jumpSize=12;strokeColor=#000000;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeWidth=2;targetPerimeterSpacing=4;" mermaidBaseValue="" id="kkuTZYCbr9MnTPad1QXG-53">
+          <mxCell edge="1" parent="kkuTZYCbr9MnTPad1QXG-41" source="kkuTZYCbr9MnTPad1QXG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;startArrow=none;endArrow=block;endSize=8;jumpStyle=arc;jumpSize=12;strokeColor=#000000;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeWidth=2;targetPerimeterSpacing=4;" target="kkuTZYCbr9MnTPad1QXG-45">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" mermaidId="e:DoubleAngle-&gt;SumDiff#0" mermaidBaseStyle="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;startArrow=none;endArrow=block;endSize=8;jumpStyle=arc;jumpSize=12;strokeColor=#000000;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeWidth=2;targetPerimeterSpacing=4;" mermaidBaseValue="" id="kkuTZYCbr9MnTPad1QXG-54">
+          <mxCell edge="1" parent="kkuTZYCbr9MnTPad1QXG-41" source="kkuTZYCbr9MnTPad1QXG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;startArrow=none;endArrow=block;endSize=8;jumpStyle=arc;jumpSize=12;strokeColor=#000000;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeWidth=2;targetPerimeterSpacing=4;" target="kkuTZYCbr9MnTPad1QXG-42">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
