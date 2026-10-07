@@ -11,13 +11,13 @@
           <mxGeometry height="80" width="160" x="499" y="405" as="geometry" />
         </mxCell>
         <mxCell id="pnD_SxfrUmBLamvsYzKY-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ExxonMobil" vertex="1">
-          <mxGeometry height="60" width="140" x="522" y="165" as="geometry" />
+          <mxGeometry height="60" width="140" x="292" y="170" as="geometry" />
         </mxCell>
         <mxCell id="pnD_SxfrUmBLamvsYzKY-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Oil &amp; Gas" vertex="1">
-          <mxGeometry height="60" width="120" x="838" y="88" as="geometry" />
+          <mxGeometry height="60" width="120" x="685" y="65" as="geometry" />
         </mxCell>
         <mxCell id="pnD_SxfrUmBLamvsYzKY-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Energy" vertex="1">
-          <mxGeometry height="60" width="120" x="805" y="306" as="geometry" />
+          <mxGeometry height="60" width="120" x="965" y="329" as="geometry" />
         </mxCell>
         <mxCell id="pnD_SxfrUmBLamvsYzKY-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chemicals" vertex="1">
           <mxGeometry height="60" width="120" x="1062" y="115" as="geometry" />
